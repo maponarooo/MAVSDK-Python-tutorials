@@ -10,10 +10,12 @@ Python 3.6+
 
 설치
 
-pip3 install mavsdk
+$ pip3 install mavsdk
 
-pip3 install aioconsole
+$ pip3 install aioconsole
 
 실행
+
+$ make px4_sitl_default jmavsim
 
 $ apython mavsdk.py
