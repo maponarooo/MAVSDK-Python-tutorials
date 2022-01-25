@@ -14,6 +14,7 @@ $ pip3 install mavsdk
 
 $ pip3 install aioconsole
 
+
 실행
 
 $ make px4_sitl_default jmavsim
