@@ -21,3 +21,5 @@ export PX4_HOME_ALT=0
    
 export PX4_SIM_SPEED_FACTOR=1   
    
+#### API Reference docs        
+-> API Reference documentation. http://mavsdk-python-docs.s3-website.eu-central-1.amazonaws.com/      
