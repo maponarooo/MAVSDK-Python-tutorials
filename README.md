@@ -18,7 +18,7 @@ $ apython mavsdk.py
 #### Home Point 변경   
 export PX4_HOME_LAT=37.210534   
 export PX4_HOME_LON=127.105790   
-export PX4_HOME_ALT=28.5   
+export PX4_HOME_ALT=0   
    
 export PX4_SIM_SPEED_FACTOR=1   
    
