@@ -8,11 +8,10 @@ Python 3.6+
 
 #### 설치   
 $ pip3 install mavsdk   
-$ pip3 install aioconsole   
    
 #### 실행   
 $ make px4_sitl_default jmavsim    
-$ apython mavsdk.py
+$ examples/takeoff_and_land.py
    
 
 #### Home Point 변경   
