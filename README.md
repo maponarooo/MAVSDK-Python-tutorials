@@ -10,13 +10,14 @@ Python 3.6+
 $ pip3 install mavsdk   
 $ pip3 install aioconsole   
    
-#### 실행
-$ make px4_sitl_default jmavsim   
+#### 실행   
+$ make px4_sitl_default jmavsim    
 $ apython mavsdk.py
+   
 
-
-export PX4_HOME_LAT=37.210534
-export PX4_HOME_LON=127.105790
-export PX4_HOME_ALT=28.5
-
-export PX4_SIM_SPEED_FACTOR=1
+export PX4_HOME_LAT=37.210534   
+export PX4_HOME_LON=127.105790   
+export PX4_HOME_ALT=28.5   
+   
+export PX4_SIM_SPEED_FACTOR=1   
+   
